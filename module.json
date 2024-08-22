@@ -1,0 +1,11 @@
+{
+    "name": "CompanyReviews",
+    "alias": "companyreviews",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CompanyReviews\\Providers\\CompanyReviewsServiceProvider"
+    ],
+    "files": []
+}
